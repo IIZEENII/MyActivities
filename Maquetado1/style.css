@@ -1,0 +1,127 @@
+nav{
+    background-color: greenyellow;
+    width: 1000px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    border-top: 5px solid black;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 2.5px solid black;
+}
+nav div{
+    background-color: white;
+    width: 190px;
+    height: 90px;
+    margin: 5px;
+    text-align: center;
+    line-height: 90px;
+    font-size: 15px;
+}
+
+header{
+    width: 1000px;
+    height: 300px;
+    background-color: royalblue;
+    display: flex;
+    flex-wrap: wrap;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-top: 2.5px solid black;
+    border-bottom: 2.5px solid black;
+}
+
+header .div1{
+    width: 795px;
+    height: 290px;
+    background-color: white;
+    text-align: center;
+    line-height: 290px;
+    margin:5px;
+}
+
+header .div2{
+    width: 185px;
+    height: 90px;
+    background-color: white;
+    text-align: center;
+    line-height: 90px;
+}
+
+header #idiv2{
+    position: relative;
+    top: 5px;
+    left: 5px;
+}
+
+header #idiv3{
+    position: relative;
+    bottom: 195px;
+    left: 810px; 
+}
+
+header #idiv4{
+    position: relative;
+    bottom: 95px;
+    left: 625px; 
+}
+
+
+
+main{
+    height: 500px;
+    width: 1000px;
+    background-color:yellow;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-top: 2.5px solid black;
+    border-bottom:2.5px solid black;
+}
+
+main #id1{
+    height: 491px;
+    width: 200px;
+    background-color: white;
+    border-left: 5px solid gray;
+    border-right: 2.5px solid gray;
+    border-top: 5px solid gray;
+    border-bottom: 5px solid gray;
+    text-align: center;
+    line-height: 500px;
+}
+
+main article{
+    height: 491px;
+    width: 580px;
+    background-color: white; 
+    position: relative; left: 208px; bottom: 501px;
+    border-left: 2.5px solid gray;
+    border-right: 2.5px solid gray;
+    border-top: 5px solid gray;
+    border-bottom: 5px solid gray;
+    text-align: center;
+    line-height: 500px;
+}
+
+main #id2{
+    height: 491px ;
+    width: 200px;
+    background-color: white; 
+    position: relative; left: 792px; bottom: 1002px;
+    border-left: 2.5px solid gray;
+    border-right: 5px solid gray;
+    border-top: 5px solid gray;
+    border-bottom: 5px solid gray; 
+    text-align: center;
+    line-height: 500px; 
+}
+
+footer{
+    background-color: orangered;
+    height: 50px;
+    width: 1000px;
+    border-left: 5px solid black;
+    border-right: 5px solid black;
+    border-top: 2.5px solid black;
+    border-bottom:5px solid black;
+}
