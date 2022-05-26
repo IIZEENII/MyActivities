@@ -1,0 +1,109 @@
+/* Parte 1 del curriculum */
+
+#sheet {
+    width: 750px;
+    height: 1845px;
+    border: #2957b4 solid 5px;
+}
+
+#header {
+    background-color: #0c4552;
+    height: 80px;
+    box-sizing: border-box;
+    border-bottom: #2957b4 solid 5px;
+    display: grid;
+    place-content: center;
+    color: white;
+}
+
+#image {
+    background-color: #0c4552;
+    width: 220px;
+    height: 220px;
+    box-sizing: border-box;
+    background-color: #fff;
+    border: 5px solid #2957b4;
+    border-top: none;
+    border-left: none;
+}
+
+img {
+    width: 190px;
+    height: 205px;
+    padding: 5px 10px;
+}
+
+#info1 {
+    width: 530px;
+    position: relative;
+    top: -220px;
+    left: 220px;
+    margin: none;
+}
+
+#idiv1 {
+    background-color: #196f83;
+    width: 530px;
+    height: 50px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0px;
+    display: grid;
+    place-content: center;
+    color: white;
+}
+
+#idiv2 {
+    background-color: #d8d8d8;
+    width: 530px;
+    height: 170px;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 30px 20px 0px;
+}
+
+#estructure {
+    display: inline-block;
+    width: 750px;
+    height: 220px;
+}
+
+/* Esta es la parte del curriculum */
+
+#estructure2 {
+    width: 750px;
+    position: relative;
+    top: -188px;
+}
+
+.sub-header {
+    background-color: #196f83;
+    width: 750px;
+    height: 50px;
+    display: grid;
+    place-content: center;
+    color: white;
+}
+
+.data {
+    background-color: #d8d8d8;
+    height: 150px;
+    margin: 0px;
+    padding: 30px;
+}
+
+ul {
+    background-color: #d8d8d8;
+    margin: 0px;
+    padding: 10px 50px;
+}
+
+#id-sub-header {
+    background-color: #185796;
+    width: 750px;
+    height: 50px;
+    display: grid;
+    place-content: center;
+    color: white;
+}
+
