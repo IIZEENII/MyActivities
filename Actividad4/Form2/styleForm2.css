@@ -1,0 +1,28 @@
+form {
+    width: 900px;
+    background-color: rgb(251, 251, 251);
+    border: solid #25ebfa 10px;
+    border-radius: 15px;
+}
+
+#container {
+
+    width: 100%;
+    margin: 30px;
+    position: relative;
+    top: 20px;
+}
+
+.box {
+    width: 30%;
+}
+
+.input-class {
+    position: relative;
+    left: 32%;
+    top: -35px;
+}
+
+p {
+    text-align: right;
+}
